@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @anmolverma04
 - 👀 I’m interested in Web development , Front End development
 - 🌱 I’m currently learning Python , HTML , CSS ,JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+- 
+
 
 <!---
 anmolverma04/anmolverma04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
